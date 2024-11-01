@@ -1,0 +1,1 @@
+I have no idea if the prediction from this is good I spent so long waiting for tensorflow to not be insanely slow but when the images are compressed it doesn't train as well so it's probably only right like 60% of the time 
